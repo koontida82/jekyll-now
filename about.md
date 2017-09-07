@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-koontida82
 
-### More Information
+
+### More koontida82
 
 A place to include any other types of information that you'd like to include about yourself.
 
