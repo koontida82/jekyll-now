@@ -1,19 +1,17 @@
----
-layout: page
-title: my resume
-permalink: /resume/
----
-
-
-
-### More koontida82
-
-#Experience-web Developer Client Technical
-
-นักศักษา สาขาวิทยาการคอมพิวเตอร์ คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี
-
-### Education 
--Bs.c.Computer Science,Ubon Ratchathani
-Ratchabhat University
--High School
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+[I'm an inline-style link](https://www.google.com)
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
 
