@@ -3,7 +3,7 @@ layout: page
 title: my resume
 permalink: /resume/
 ---
-
+Bs.c.Computer Science,Ubon Ratchathani
 
 
 ### More koontida82
