@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some koontida82
+koontida82
 
 ### More Information
 
