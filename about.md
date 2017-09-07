@@ -17,4 +17,4 @@ permalink: /resume/
 Ratchabhat University
 -High School
 
-[email@domain.com](mailto:email@domain.com)
+
