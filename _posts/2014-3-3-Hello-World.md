@@ -1,5 +1,5 @@
 ---
-layout: koontida82
+layout: page
 title: my resume
 permalink: /resume/
 ---
