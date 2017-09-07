@@ -1,14 +1,14 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: koontida82
+title: my resume
+permalink: /resume/
 ---
 
 
 
 ### More koontida82
 
-A place to include any other types of information that you'd like to include about yourself.
+นักศักษา สาขาวิทยาการคอมพิวเตอร์ คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี
 
 ### Contact me
 
